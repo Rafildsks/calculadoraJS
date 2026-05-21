@@ -19,8 +19,8 @@ function calcular() {
   } else if (operador == "-") {
     resposta = numero1 - numero2;
   } else if (operador == "*") {
-    respost = numero1 * numero2;
-  } else if ((operador = "/")) {
+    resposta = numero1 * numero2;
+  } else if (operador == "/") {
     resposta = numero1 / numero2;
   }
 
